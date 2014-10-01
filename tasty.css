@@ -1,0 +1,12 @@
+#tasty-count {
+    background: #CAEFFF;
+    border: 2px black solid;
+    padding: 10px;
+    color: black;
+    font-family: Arial, Verdana;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    display: inherit;
+    postion:relative;
+}
